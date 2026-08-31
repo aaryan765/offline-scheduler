@@ -1,0 +1,6 @@
+# Zero third-party runtime dependencies.
+#
+# Offline Smart Scheduler (Track F) runs on the Python 3 standard
+# library only: no pip install is required or possible for this
+# project. See STDLIB.md for the full list of common packages we
+# avoided and what standard-library functionality replaced them.
